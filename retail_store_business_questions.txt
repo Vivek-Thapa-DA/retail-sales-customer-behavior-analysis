@@ -1,0 +1,41 @@
+-> Topic
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Retail Sales & Customer Purchase Behavior Analysis
+Tech Stack: Excel, Pivot Tables, Power Query, Dashboard
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> Objective
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+To create a Retail Sales Analysis Report that helps identify customer buying patterns, product performance, and sales trends to support better business decisions and increase revenue.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-> Sample Questions
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+☐ What is the total revenue generated from all transactions? -
+
+☐ Which product category contributes the highest sales? -
+
+☐ Which products are purchased most frequently? -
+
+☐ What are the top-performing and low-performing product categories? -
+
+☐ Which payment method is used most by customers? -
+
+☐ How do sales vary across different locations? -
+
+☐ Does applying discounts increase customer spending?
+
+☐ Which customers contribute the highest revenue?
+
+☐ What is the average transaction value?
+
+☐ How do monthly sales trends change over time?
+
+☐ Which time period generated the highest sales?
+
+☐ What is the relationship between quantity purchased and total spending?
+
+☐ Which business areas need improvement based on sales performance?
+
+☐ What recommendations can increase sales and improve customer engagement?
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
